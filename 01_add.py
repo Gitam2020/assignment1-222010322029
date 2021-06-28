@@ -5,7 +5,8 @@ import unittest
 
 
 def add(n1, n2):
-    pass
+   sum = n1 + n2
+   return sum
 
 
 # DO NOT TOUCH THE BELOW CODE
